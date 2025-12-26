@@ -1,6 +1,7 @@
 <?php require __DIR__ . '/partials/header.php'; ?>
 
-<h1>Bienvenido a Cariluma</h1>
-<p>Te queremos acompañar en tus procesos</p>
+<h1>Ideas</h1>
 
 <?php require __DIR__ . '/partials/footer.php'; ?>
+
+<p>Espera</p>
