@@ -20,3 +20,11 @@
     ?>
 </pre>
 ```
+
+# Referencia para GITHUB
+
+```
+git add .
+git commit -m "Descripción clara del cambio"
+git push
+```
