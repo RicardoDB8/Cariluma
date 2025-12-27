@@ -2,7 +2,8 @@
     <div class="mx-auto max-w-7xl flex h-16 items-center justify-between px-4">
 
         <!-- Nombre a la izquierda -->
-        <p class="text-white text-xl font-semibold">
+        
+        <p class="text-white text-2xl font-medium" style="font-family: 'Pacifico', cursive;">
             Cariluma
         </p>
 
