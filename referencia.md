@@ -28,3 +28,11 @@ git add .
 git commit -m "Descripción clara del cambio"
 git push
 ```
+
+# Para ingresar a phpMyAdmin
+#### En el navegador coloco:
+
+http://localhost/phpmyadmin/
+
+Usuario: ricardo
+Contraseña: NuevaClave123!
